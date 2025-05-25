@@ -1,9 +1,9 @@
-<h1 align="center">سلام 👋 من امینم</h1>
-<h3 align="center">فرانت‌اند دولوپر عاشق ساخت تجربه‌های کاربری زیبا، سریع و واکنش‌گرا ✨</h3>
+<h1 align="center">Hello 👋, I'm Amin</h1>
+<h3 align="center">Frontend Developer passionate about building beautiful, fast, and responsive user experiences ✨</h3>
 
 ---
 
-### 👨‍💻 درباره‌ی من
+### 👨‍💻 About Me
 
 ```ts
 const amin: FrontendDeveloper = {
@@ -11,25 +11,25 @@ const amin: FrontendDeveloper = {
   role: "Frontend Developer",
   skills: ["Next.js 15.2", "React 19", "TailwindCSS 4", "TypeScript"],
   tools: ["Zustand", "Axios", "Framer Motion", "React Query", "Figma"],
-  passion: "طراحی رابط کاربری چشم‌نواز با کد تمیز و معماری اصولی",
-  location: "📍 ایران",
-  portfolio: "در حال ساخت یک سایت شخصی با Next.js برای نمایش نمونه‌کارها 😍"
+  passion: "Designing eye-catching user interfaces with clean code and solid architecture",
+  location: "📍 Iran",
+  portfolio: "Currently building a personal website with Next.js to showcase my projects 😍"
 }
-🔧 مهارت‌ها و ابزارها
+🔧 Skills & Tools
 <div align="center"> <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vscode,figma,git,github,vercel,html,css,js&perline=6" /> </div>
-📈 آمار گیت‌هاب من
+📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Amin9767&show_icons=true&theme=radical&hide=prs" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin9767&layout=compact&theme=radical" height="160"/> </p>
-🔥 پروژه‌های فرانت‌اند جذاب
-عنوان پروژه	تکنولوژی‌ها	توضیح
-وب‌سایت شخصی	Next.js, Tailwind, TypeScript	نمونه‌کارهای من + صفحه رزومه و تماس
-پنل مدیریت پزشکی	React, Zustand, Chart.js	داشبورد نقش‌محور برای پزشکان و بیماران
-فروشگاه قهوه	Next.js App Router, Firestore	فروشگاه آنلاین با سبد خرید و فیلترها
+🔥 Featured Frontend Projects
+Project Title	Technologies	Description
+Personal Website	Next.js, Tailwind, TypeScript	My portfolio with resume and contact pages
+Medical Admin Panel	React, Zustand, Chart.js	Role-based dashboard for doctors and patients
+Coffee Shop	Next.js App Router, Firestore	Online store with cart and filters
 
-📬 ارتباط با من
-📧 ایمیل: amin9767.dev@gmail.com
+📬 Contact Me
+📧 Email: amin9767.dev@gmail.com
 
-💼 لینکدین: linkedin.com/in/amin9767
+💼 LinkedIn: linkedin.com/in/amin9767
 
-🌐 سایت شخصی: در دست ساخت...
+🌐 Personal Website: Coming soon...
 
-<h3 align="center">با هم کد بزنیم و دنیای فرانت‌اند رو بهتر کنیم! 🚀</h3> ```
+<h3 align="center">Let's code together and make the frontend world better! 🚀</h3> ```
