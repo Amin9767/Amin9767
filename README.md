@@ -25,5 +25,4 @@
 
 ### 📫 راه‌های ارتباطی
 
-- 📧 ایمیل: amin@example.com
-- 🌐 وبسایت: [amin.dev](https://amin.dev)
+- 📧 ایمیل: amin1375.poor@gmail.com
