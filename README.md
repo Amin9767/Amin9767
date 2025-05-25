@@ -16,3 +16,12 @@ const amin: FrontendDeveloper = {
   location: "📍 Iran",
   portfolio: "Currently building a personal website with Next.js to showcase my projects 😍"
 }
+
+
+📬 Contact Me
+📧 Email: amin9767.dev@gmail.com
+
+💼 LinkedIn: linkedin.com/in/amin9767
+
+🌐 Personal Website: Coming soon...
+
