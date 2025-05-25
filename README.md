@@ -19,9 +19,6 @@ const amin: FrontendDeveloper = {
 
 
 📬 Contact Me
-📧 Email: amin9767.dev@gmail.com
-
-💼 LinkedIn: linkedin.com/in/amin9767
-
+📧 Email: amin1375.poor@gmail.com
 🌐 Personal Website: Coming soon...
 
